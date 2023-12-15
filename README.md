@@ -1,5 +1,5 @@
 # PandoraNext_api
-<h1>使用ChatGPT PandoraNext的API实例。</h1>
+<h1>使用ChatGPT PandoraNext的API实例</h1>
 <h3>使用前请修改自架设的PandoraNext的服务器地址。
 
 
