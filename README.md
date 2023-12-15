@@ -1,6 +1,6 @@
 # PandoraNext_api
 <h1>使用ChatGPT PandoraNext的API实例</h1>
-<h3>使用前请修改自架设的PandoraNext的服务器地址。
+<h3>使用前请自架设服务器，并在配置文件中设置API服务前缀。代码中需修改自架设的PandoraNext的服务器地址。
 
 
 <h1>一、PandoraNext_completion.py</h1>
