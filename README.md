@@ -13,7 +13,7 @@
 <h1>二、PandoraNext_Conversation.py</h1>
 <h3>采用Conversation模式，跟网页一样可以上下文多次对话。
 
-使用access tocken或session tocken登录
+使用access tocken登录
 
 如不指定会话编号则新建一个会话，同时反馈会话编号和父信息编号；
 
