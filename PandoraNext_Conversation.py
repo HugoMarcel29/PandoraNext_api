@@ -32,7 +32,7 @@ def pandora(prompt,parent_message_id,conversation_id):
     json_data = json.dumps(data)
 
     # 填入你的 API 密钥
-    api_key = "xxxxxxxxxxxxxxxxxxxxx"   #access tocken或session tocken
+    api_key = "xxxxxxxxxxxxxxxxxxxxx"   #access tocken
 
     # 设置 API 终点
     url = "http://xxxx:8081/<Proxy服务前缀>/backend-api/conversation"
